@@ -1,1 +1,1 @@
-# react_api_master
+# React Application with simple Youtube API search
